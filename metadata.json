@@ -1,0 +1,6 @@
+{
+  "name": "Dog Days - Pet Sitting & Drop-In Manager",
+  "description": "A web application for Dog Days to manage pet sitting in client and sitter homes, drop-in visits, meet & greets, and pet care schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
